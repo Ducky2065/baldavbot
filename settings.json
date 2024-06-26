@@ -1,7 +1,7 @@
 {
   "bot-account": {
     "username": "ohhhyeah",
-    "password": "9951410639",
+    "password": "",
     "type": "mojang"
   },
 
@@ -36,7 +36,7 @@
 
       "messages": [
         "/skyblock",
-        "/is warp herobest1 icecold",
+        "/is warp herobest1 afk",
         "/me &b&lSell &f&lCocoa &c&lAt &4&l/is warp Davinder51"
       ]
     },
