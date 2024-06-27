@@ -10,7 +10,7 @@
     "port": 25565,
     "version": "1.8.9"
   },
-  
+
   "position": {
     "enabled": false,
     "x": 0,
@@ -37,12 +37,19 @@
       "messages": [
         "/skyblock",
         "/is warp herobest1 icecold",
-        "/me &b&lSell &f&lCocoa &c&lAt &4&l/is warp Davinder51 128M Per Stack"
+        "/me &b&lSell &f&lCocoa &c&lAt &4&l/is warp Davinder51 &b&l28M Per Stack"
       ]
     },
 
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-recconect-delay": 5000
+    "auto-recconect-delay": 5000,
+
+    "mob-killer": {
+      "enabled": true,
+      "range": 30,
+      "weapon-slot": 1,
+      "weapon-type": "sword"
+    }
   }
 }
