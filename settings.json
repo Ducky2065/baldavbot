@@ -1,6 +1,6 @@
 {
   "bot-account": {
-    "username": "DarkStar1",
+    "username": "NishanGTR",
     "password": "",
     "type": "mojang"
   },
@@ -21,7 +21,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "davinderjindal51"
+      "password": "rtyt@pro"
     },
 
     "anti-afk": {
