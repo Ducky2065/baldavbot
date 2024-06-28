@@ -32,12 +32,12 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 100,
+      "repeat-delay": 50,
 
       "messages": [
         "/skyblock",
         "/is warp herobest1 afk",
-        "/me &b&lSell &f&lCocoa &c&lAt &4&l/is warp Davinder51 l28M Per Stack"
+        "/me &2&l Sell &c&lAsag  & &a&lMorose & &l&a CoCo /is warp herobest1"
       ]
     },
 
