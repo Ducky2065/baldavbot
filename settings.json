@@ -6,7 +6,7 @@
   },
 
   "server": {
-    "ip": "mc.leftypvp.net",
+    "ip": "Pepsi_SMP.aternos.me:14152",
     "port": 25565,
     "version": "1.8.9"
   },
@@ -30,8 +30,8 @@
     },
 
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 50,
 
       "messages": [
